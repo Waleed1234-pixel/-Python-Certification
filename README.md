@@ -1,0 +1,1 @@
+🔹 Assignment 3 – Gender Identification from Text ✅ Developed a text classification model to determine gender based on textual input. ✅ Implemented Natural Language Processing (NLP) techniques for accurate predictions.
