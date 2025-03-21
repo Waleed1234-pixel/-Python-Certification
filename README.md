@@ -1,0 +1,1 @@
+🔹 Assignment 2 – Heart Health Predictor ✅ Built a Supervised Machine Learning model to predict heart disease occurrence. ✅ Utilized Scikit-learn and Python for data preprocessing, model training, and evaluation.
